@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello")
+
+	message := "GOLANG DEVELOPER"
+	fmt.Println(message)
 }
